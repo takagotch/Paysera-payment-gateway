@@ -1,4 +1,4 @@
-### o
+### Paysera payment gateway
 ---
 
 
